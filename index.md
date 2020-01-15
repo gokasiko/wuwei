@@ -1,14 +1,14 @@
 # Wei Wu
 
-## Student in SOUTHEAST UNIVERSITY
+### Student in SOUTHEAST UNIVERSITY
 
-# Email: wuwei@seu.edu.cn
+## Email: wuwei@seu.edu.cn
 
-# Education:
+## Education:
 
-## 2011.09-2015.07 SOUTHEAST UNIVERSITY  Software Engineering, Bachelor
-## 2018.09-now     SOUTHEAST UNIVERSITY  Software Engineering, Master
+### 2011.09-2015.07 SOUTHEAST UNIVERSITY  Software Engineering, Bachelor
+### 2018.09-now     SOUTHEAST UNIVERSITY  Software Engineering, Master
 
-# Research Interests:
-## QA, Knowledge Graph, NLP
+## Research Interests:
+### QA, Knowledge Graph, NLP
 
