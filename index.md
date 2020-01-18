@@ -1,5 +1,5 @@
 <p>
-	<img src="./picture.jpg" alt="Sample"  width="295" height="414">
+	<img src="./picture.jpg" alt="Sample"  width="150" height="200">
 </p>
 ## Wei Wu
 
@@ -15,5 +15,3 @@
 
 ## Research Interests:
 ### QA, Knowledge Graph, NLP
-
-![Image](./picture.jpg) 
