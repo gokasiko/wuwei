@@ -1,9 +1,6 @@
-
-![Image](./picture.jpg) 
-<p align="center">
-	<img src="./picture.jpg" alt="Sample"  width="250" height="140">
+<p>
+	<img src="./picture.jpg" alt="Sample"  width="295" height="414">
 </p>
-
 ## Wei Wu
 
 ### Student in Southeast University
@@ -19,3 +16,4 @@
 ## Research Interests:
 ### QA, Knowledge Graph, NLP
 
+![Image](./picture.jpg) 
